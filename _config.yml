@@ -1,5 +1,5 @@
 theme: jekyll-theme-minimal
 title: Preset Embedded Customer/Developer Documentation
-description: How to embed dashboards with Preset
+description: How to embed Preset Dashboards into your application
 github:
   is_project_page: false
