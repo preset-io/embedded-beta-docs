@@ -1,5 +1,5 @@
 theme: jekyll-theme-slate
-title: Preset Embedded Customer/Developer Documentation
-description: How to embed Preset Dashboards into your application
+title: How to embed Preset Dashboards into your application
+description: Embedding dashboards offers a lot of customization options to fit your security and UI needs. Some programming is required, but the process is quite straightforward. These steps should get you well on your way to providing valuable insights to your users.
 github:
   is_project_page: false
